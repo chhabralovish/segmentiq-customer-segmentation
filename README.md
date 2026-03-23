@@ -19,6 +19,16 @@
 
 ![SegmentIQ Demo 2](demo2.png)
 
+![SegmentIQ Demo 3](demo3.png)
+
+![SegmentIQ Demo 4](demo4.png)
+
+---
+
+## 📄 Sample Report
+
+A sample generated PDF report is included: [segmentiq_report_20260323_2225.pdf](segmentiq_report_20260323_2225.pdf)
+
 ---
 
 ## ✨ Features
